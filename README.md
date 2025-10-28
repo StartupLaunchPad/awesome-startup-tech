@@ -11,7 +11,8 @@
 <!-- <br>
 <p align="center"><i>Loved the project? Please visit our <a href="https://awesome-github-readme-profile.netlify.app">Website</a></i></p>
 <br> -->
-This repo aims to create a wiki of all the `technologies commonly used in startups` and help them launch quickly.
+
+This repo aims to create a wiki of all the ***technologies*** & ***tools*** needed to launch startups quickly.
 
 Feel free to add tech ideas 
 
